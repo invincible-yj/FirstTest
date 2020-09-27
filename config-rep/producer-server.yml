@@ -1,4 +1,4 @@
 server:
-  port:9093
+  port: 10003
 my:
-  name:zhangsan
+  name: zhangsan
